@@ -35,21 +35,21 @@ Thank you to everyone who has helped us out on [Twitter](https://twitter.com/spe
 Here are our current shows on the Spec Network, focused on helping designers and developers level up.
 
  - [Design Details](http://spec.fm/podcasts/design-details)
-  - Hosted by [Bryn Jackson](https://twitter.com/uberbryn) and [Brian Lovin](https://twitter.com/brian_lovin)
+    - Hosted by [Bryn Jackson](https://twitter.com/uberbryn) and [Brian Lovin](https://twitter.com/brian_lovin)
  - [Developer Tea](http://spec.fm/podcasts/developer-tea)
-  - Hosted by [Jonathan Cutrell](https://twitter.com/jcutrell)
+    - Hosted by [Jonathan Cutrell](https://twitter.com/jcutrell)
  - [Immutable](http://spec.fm/podcasts/immutable)
-  - Hosted by [Sam Soffes](https://twitter.com/soffes) and [Bryn Jackson](https://twitter.com/uberbryn)
+    - Hosted by [Sam Soffes](https://twitter.com/soffes) and [Bryn Jackson](https://twitter.com/uberbryn)
  - [Does Not Compute](http://spec.fm/podcasts/does-not-compute)
-  - Hosted by [Paul Straw](https://twitter.com/paulstraw) and [Sean Washington](https://twitter.com/seanwashbot)
+    - Hosted by [Paul Straw](https://twitter.com/paulstraw) and [Sean Washington](https://twitter.com/seanwashbot)
  - [Fragmented](http://spec.fm/podcasts/fragmented)
-  - Hosted by [Kaushik Gopal](https://twitter.com/kaushikgopal) and [Donn Felker](https://twitter.com/donnfelker)
+    - Hosted by [Kaushik Gopal](https://twitter.com/kaushikgopal) and [Donn Felker](https://twitter.com/donnfelker)
  - [Vicarious](http://spec.fm/podcasts/vicarious)
-  - Hosted by [Marshall Bock](https://twitter.com/marshallbock), [Joshua Sortino](https://twitter.com/sortino), [Bryn Jackson](https://twitter.com/uberbryn), and [Sarah Jackson](https://twitter.com/sarahberus)
+    - Hosted by [Marshall Bock](https://twitter.com/marshallbock), [Joshua Sortino](https://twitter.com/sortino), [Bryn Jackson](https://twitter.com/uberbryn), and [Sarah Jackson](https://twitter.com/sarahberus)
  - [Runtime](http://spec.fm/podcasts/runtime)
-  - Hosted by [Caleb Davenport](https://twitter.com/calebd) and [Sam Soffes](https://twitter.com/soffes)
+    - Hosted by [Caleb Davenport](https://twitter.com/calebd) and [Sam Soffes](https://twitter.com/soffes)
  - [Orthogonal](http://spec.fm/podcasts/orthogonal)
-  - Hosted by [Brett Kelly](https://twitter.com/mrbrettkelly) and [Andrew Carroll](https://twitter.com/cfoandrew)
+    - Hosted by [Brett Kelly](https://twitter.com/mrbrettkelly) and [Andrew Carroll](https://twitter.com/cfoandrew)
   
 ## Resources
 We're working on more ways to share information and connect the community with new blogs and resources.
