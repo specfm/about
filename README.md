@@ -1,7 +1,7 @@
 # About Spec
-Spec is a place for designers and developers to level up. We create and share content for people to discover and learn, to connect with the industry, and to stay up to date with everything happening in the world of design and development. Our current efforts include eight podcasts, three resource channels, a [Slack community](http://spec.fm/slack) with more than 5,000 people, [new open-source projects](https://github.com/specfm), and more. 
+Spec is a place for designers and developers to level up. We create and share content for people to discover and learn, to connect with the industry, and to stay up to date with everything happening in the world of design and development. Our current efforts include eight podcasts, three resource channels, a [Slack community](https://spectrum.chat/specfm) with more than 5,000 people, [new open-source projects](https://github.com/specfm), and more. 
 
-If you want to follow along you can find us on [Twitter](https://twitter.com/specfm) or on [Slack](http://spec.fm/slack). If your company or team wants to support our work, we'd love to collaborate on a sponsorship that makes sense for you – get started by reaching out to [Sarah](mailto:sarah@spec.fm) directly.
+If you want to follow along you can find us on [Twitter](https://twitter.com/specfm) or on [Spectrum channel](https://spectrum.chat/specfm). If your company or team wants to support our work, we'd love to collaborate on a sponsorship that makes sense for you – get started by reaching out to [Sarah](mailto:sarah@spec.fm) directly.
 
 ## The Team
 These are the people working to build the Spec Network every day – feel free to reach out to any of us for general questions, feedback, sponsorship requests, or if you want to help contribute to our open-source work.
@@ -28,6 +28,8 @@ These are our friends who have contributed to Spec and make all of this possible
  - [Brett Kelly](https://twitter.com/mrbrettkelly)
  - [Marshall Bock](https://twitter.com/marshallbock)
  - [Joshua Sortino](https://twitter.com/sortino)
+ - [Mikhail Delport](https://twitter.com/_mikhailbot?lang=en)
+ - [Rockwell Schrock](https://twitter.com/schrockwell)
  
 Thank you to everyone who has helped us out on [Twitter](https://twitter.com/specfm) or given us critical feedback, ideas and guidance on our [Slack Team](http://spec.fm/slack)
 
