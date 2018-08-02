@@ -1,5 +1,5 @@
 # About Spec
-Spec is a place for designers and developers to level up. We create and share content for people to discover and learn, to connect with the industry, and to stay up to date with everything happening in the world of design and development. Our current efforts include eight podcasts, three resource channels, a [Slack community](https://spectrum.chat/specfm) with more than 5,000 people, [new open-source projects](https://github.com/specfm), and more. 
+Spec is a place for designers and developers to level up. We create and share content for people to discover and learn, to connect with the industry, and to stay up to date with everything happening in the world of design and development. Our current efforts include eight podcasts, three resource channels, a [Spectrum community](https://spectrum.chat/specfm) with more than 5,000 people, [new open-source projects](https://github.com/specfm), and more. 
 
 If you want to follow along you can find us on [Twitter](https://twitter.com/specfm) or on [Spectrum channel](https://spectrum.chat/specfm). If your company or team wants to support our work, we'd love to collaborate on a sponsorship that makes sense for you – get started by reaching out to [Sarah](mailto:sarah@spec.fm) directly.
 
