@@ -1,7 +1,7 @@
 # About Spec
 Spec is a place for designers and developers to level up. We create and share content for people to discover and learn, to connect with the industry, and to stay up to date with everything happening in the world of design and development. Our current efforts include eight podcasts, three resource channels, a [Spectrum community](https://spectrum.chat/specfm) with more than 5,000 people, [new open-source projects](https://github.com/specfm), and more. 
 
-If you want to follow along you can find us on [Twitter](https://twitter.com/specfm) or on [Spectrum channel](https://spectrum.chat/specfm). If your company or team wants to support our work, we'd love to collaborate on a sponsorship that makes sense for you – get started by reaching out to [Sarah](mailto:sarah@spec.fm) directly.
+If you want to follow along you can find us on [Twitter](https://twitter.com/specfm) or on our [Spectrum community](https://spectrum.chat/specfm). If your company or team wants to support our work, we'd love to collaborate on a sponsorship that makes sense for you – get started by reaching out to [Sarah](mailto:sarah@spec.fm) directly.
 
 ## The Team
 These are the people working to build the Spec Network every day – feel free to reach out to any of us for general questions, feedback, sponsorship requests, or if you want to help contribute to our open-source work.
@@ -31,7 +31,7 @@ These are our friends who have contributed to Spec and make all of this possible
  - [Mikhail Delport](https://twitter.com/_mikhailbot?lang=en)
  - [Rockwell Schrock](https://twitter.com/schrockwell)
  
-Thank you to everyone who has helped us out on [Twitter](https://twitter.com/specfm) or given us critical feedback, ideas and guidance on our [Slack Team](http://spec.fm/slack)
+Thank you to everyone who has helped us out on [Twitter](https://twitter.com/specfm) or given us critical feedback, ideas and guidance on our [Spectrum community](http://spectrum.chat/specfm).
 
 ## The Podcasts
 Here are our current shows on the Spec Network, focused on helping designers and developers level up.
@@ -66,4 +66,4 @@ Spec has been sponsored by some of our favorite products, companies, and teams. 
 If your team or company is interested in sponsoring Spec, you can get more information by reaching out to [Sarah](mailto:sarah@spec.fm). Our shows are downloaded more than 100,000 times per week by designers, developers, engineers, product managers, freelancers, and founders around the world.
 
 ## Contributing
-Our vision is to continue building Spec and all our content, events, and future products, as transparently and openly as possible. If you are interested in contributing to our open-source projects, or giving us feedback on existing work, please feel free to open an issue or pull request on our [GitHub repos](https://github.com/specfm) or by chatting directly with us in [Slack](http://spec.fm/slack).
+Our vision is to continue building Spec and all our content, events, and future products, as transparently and openly as possible. If you are interested in contributing to our open-source projects, or giving us feedback on existing work, please feel free to open an issue or pull request on our [GitHub repos](https://github.com/specfm) or by chatting directly with us in [Spectrum](http://spectrum.chat/specfm).
